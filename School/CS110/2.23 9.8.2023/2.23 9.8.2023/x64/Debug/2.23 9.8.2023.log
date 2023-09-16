@@ -1,0 +1,5 @@
+﻿  2.23 9.8.2023.cpp
+C:\Users\Micha\Code\CS110\2.23 9.8.2023\2.23 9.8.2023\2.23 9.8.2023.cpp(13,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Micha\Code\CS110\2.23 9.8.2023\2.23 9.8.2023\2.23 9.8.2023.cpp(8,6): warning C4101: 'workWeeksPerYear': unreferenced local variable
+C:\Users\Micha\Code\CS110\2.23 9.8.2023\2.23 9.8.2023\2.23 9.8.2023.cpp(9,6): warning C4101: 'monthlySalary': unreferenced local variable
+  2.23 9.8.2023.vcxproj -> C:\Users\Micha\Code\CS110\2.23 9.8.2023\x64\Debug\2.23 9.8.2023.exe
