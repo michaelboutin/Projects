@@ -1,2 +1,3 @@
 ﻿  How to PB&J 9.8.2023.cpp
-  How to PB&J 9.8.2023.vcxproj -> C:\Users\Micha\Code\CS110\How to PB&J 9.8.2023\x64\Debug\How to PB&J 9.8.2023.exe
+C:\Users\Micha\Code\Projects Repo\School\CS110\How to PB&J 9.8.2023\How to PB&J 9.8.2023\How to PB&J 9.8.2023.cpp(29,15): error C2001: newline in constant
+C:\Users\Micha\Code\Projects Repo\School\CS110\How to PB&J 9.8.2023\How to PB&J 9.8.2023\How to PB&J 9.8.2023.cpp(30,7): error C2143: syntax error: missing ';' before 'std::cout'

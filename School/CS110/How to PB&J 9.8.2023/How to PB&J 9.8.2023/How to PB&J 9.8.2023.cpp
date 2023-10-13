@@ -26,7 +26,7 @@ int main()
 	std::cout << "  * Plate." << "\n\n";
 	std::cout << "2. Get the two slices";
 	std::cout << " of bread and place them down onto the plate." << "\n\n";
-	std::cout << "3. Get one of the knifes and dip it into the";
+	std::cout << "3. Get one of the knifes and dip it into the
 	std::cout << " peanut butter, then spread it onto one side, of one of the slices of bread." << endl << endl;
 	cout << "4. Get the second knife and dip it into the jelly, then spread it onto one side, of the second slice of bread." << endl << endl;
 	cout << "5. Finally, take the two slices of bread and put them together with the peanut butter and jelly touching eachother."<< "\n\n";
