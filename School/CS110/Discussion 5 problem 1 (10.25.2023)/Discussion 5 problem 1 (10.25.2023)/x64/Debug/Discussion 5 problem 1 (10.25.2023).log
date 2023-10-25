@@ -1,0 +1,3 @@
+﻿  Discussion 5 problem 1 (10.25.2023).cpp
+C:\Users\Micha\Code\Projects Repo\School\CS110\Discussion 5 problem 1 (10.25.2023)\Discussion 5 problem 1 (10.25.2023)\Discussion 5 problem 1 (10.25.2023).cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Micha\Code\Projects Repo\School\CS110\Discussion 5 problem 1 (10.25.2023)\Discussion 5 problem 1 (10.25.2023)\Discussion 5 problem 1 (10.25.2023).cpp(23): error C4700: uninitialized local variable 'j' used
