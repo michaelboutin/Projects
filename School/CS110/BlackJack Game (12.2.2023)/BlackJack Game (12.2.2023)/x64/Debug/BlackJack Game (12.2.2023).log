@@ -1,3 +1,3 @@
 ﻿  BlackJack Game (10.25.2023).cpp
-C:\Users\Micha\Code\Projects Repo\School\CS110\BlackJack Game (12.2.2023)\BlackJack Game (12.2.2023)\BlackJack Game (10.25.2023).cpp(9,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Micha\Code\Projects Repo\School\CS110\BlackJack Game (12.2.2023)\BlackJack Game (12.2.2023)\BlackJack Game (10.25.2023).cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   BlackJack Game (12.2.2023).vcxproj -> C:\Users\Micha\Code\Projects Repo\School\CS110\BlackJack Game (12.2.2023)\x64\Debug\BlackJack Game (12.2.2023).exe
