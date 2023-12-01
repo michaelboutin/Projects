@@ -1,3 +1,8 @@
 ﻿  Rock Paper Scissors Project.cpp
+<<<<<<< HEAD
 C:\Users\Micha\Code\Projects Repo\Personal Projects\Rock Paper Scissors Project\Rock Paper Scissors Project\Rock Paper Scissors Project.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Rock Paper Scissors Project.vcxproj -> C:\Users\Micha\Code\Projects Repo\Personal Projects\Rock Paper Scissors Project\x64\Debug\Rock Paper Scissors Project.exe
+=======
+C:\Users\Micha\Code\Projects Repo\School\CS110\Rock Paper Scissors Project\Rock Paper Scissors Project\Rock Paper Scissors Project.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Rock Paper Scissors Project.vcxproj -> C:\Users\Micha\Code\Projects Repo\School\CS110\Rock Paper Scissors Project\x64\Debug\Rock Paper Scissors Project.exe
+>>>>>>> main
