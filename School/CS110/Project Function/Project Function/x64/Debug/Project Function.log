@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(7,17): error C2143: syntax error: missing ')' before 'constant'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(7,17): error C2143: syntax error: missing ';' before 'constant'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(7,17): error C2059: syntax error: 'constant'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(7,28): error C2059: syntax error: ')'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(14,2): error C2664: 'void print(char)': cannot convert argument 1 from 'char [6][6]' to 'char'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(14,8): message : There is no context in which this conversion is possible
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(7,6): message : see declaration of 'print'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(14,2): message : while trying to match the argument list '(char [6][6])'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(15,2): error C2664: 'void print(char)': cannot convert argument 1 from 'char [6][6]' to 'char'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(15,8): message : There is no context in which this conversion is possible
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(7,6): message : see declaration of 'print'
+C:\Users\Micha\Code\Projects Repo\School\CS110\Project Function\Project Function\Source.cpp(15,2): message : while trying to match the argument list '(char [6][6])'
